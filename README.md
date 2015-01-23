@@ -3,9 +3,9 @@ Membership Management
 
 Membership Management system.  PHP code 
 
-Functions:
-Membership Data  CRUD
-Reporting
-Membership Categories
-Membership maillist (integrate with a listserver)
+Functions:<br>
+Membership Data  CRUD<br>
+Reporting<br>
+Membership Categories<br>
+Membership maillist (integrate with a listserver)<br>
 Other (TBD)
